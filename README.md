@@ -1,2 +1,3 @@
-# solidity_contracts
-Simple Solidity contracts
+
+Simple Solidity contracts.
+Created during  ZTM Solidity & freeCodeCamp courses.
