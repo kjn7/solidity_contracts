@@ -2,4 +2,4 @@
 Simple Solidity contracts.
 
 
-Created during  ZTM Solidity & freeCodeCamp courses.
+Created for ZTM  & freeCodeCamp courses.
