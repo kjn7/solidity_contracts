@@ -1,6 +1,6 @@
 Simple Solidity contracts.
 
 
-Created for ZTM  & freeCodeCamp courses.
+Created during ZTM,freeCodeCamp and other courses.
 
 web3_py scripts have been tested with Ganache.
