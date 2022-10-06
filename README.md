@@ -1,6 +1,5 @@
-Simple Solidity contracts.
+Random Solidity contracts.
 
-
-Created during ZTM,freeCodeCamp and other courses.
+Written for learning purposes.
 
 web3_py scripts have been tested with Ganache.
